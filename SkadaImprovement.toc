@@ -1,0 +1,10 @@
+## Interface: 50400
+## Title: Skada |r[|caaedc99fImprovement|r]
+## Notes: Adds Improvement tracking to Skada.
+## Author: kkragenbrink
+## Version: 0.1
+## Dependencies: Skada, SkadaDamage
+## SavedVariablesPerCharacter: SkadaImprovementDB
+## X-Port-Of: Skada
+
+SkadaImprovement.lua
